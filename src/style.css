@@ -1,0 +1,25 @@
+.App {
+  font-family: Quicksand;
+  padding: 1rem;
+  width: 50%;
+  margin: 5% auto;
+  padding-top: 1rem;
+}
+button {
+  border-radius: 10px;
+  padding: 0.5rem;
+  margin: 2%;
+  cursor: pointer;
+  border: none;
+  background-color: #f06d81;
+  color: white;
+}
+
+button:hover {
+  background: #036696;
+  color: white;
+}
+h1 {
+  color: #036696;
+  font-weight: 400;
+}
